@@ -1,4 +1,4 @@
-# (Demo only)
+# (Demo)
 
 ## Set up 
 Clone the repository
@@ -21,3 +21,8 @@ pytest -v
 - Under data directory, it data for DDT tests
 - Under pages directory, it has POM classes that tests rely on
 - Under test directory, it has location of all classes
+
+## Libraries used
+- Pytest: execution framework
+- Webdriver-manager: solves Selenium web driver dependency issues
+- Pandas: help with data driven tests
