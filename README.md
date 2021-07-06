@@ -8,7 +8,7 @@ git clone https://github.com/paoloco/selenium_practice.git
 
 Run the following command to install libraries 
 ```
-cd automation_practice && pip3 install -r requirements.txt
+cd selenium_practice && pip3 install -r requirements.txt
 ```
 
 ### Run the tests
